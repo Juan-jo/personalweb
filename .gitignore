@@ -1,3 +1,4 @@
 /env
 .pytest_cahe
 __pycache__
+.gcloudignore
